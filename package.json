@@ -1,0 +1,17 @@
+{
+  "name": "lambda-test",
+  "version": "1.0.0",
+  "description": "Lambda messing",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "purest": "^3.0.1",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Rob MacDonald",
+  "license": "ISC"
+}
